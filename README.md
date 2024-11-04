@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- About Me: I'm a junior at Stonehill College studying Data Science and Criminology. I'm passionate about leveraging data to address real-world challenges.
+- Languages: Vietnamese, Python, Java
+- Tools: Office365, Google Suite, Jupyter Notebook, JGrasp
+- 🔭 I’m currently working on the PREPARED Home Safety Advisor project with four other amazing students, where we're developing a chatbot to assist families in preparing for natural hazards based on their geographical information.
+- 👯 I like dancing and listening to music (feel free to recommend some songs!). I also love learning new languages whenever I have the time.
+- 📫 Connect with me on [LinkedIn](linkedin.com/in/ula-nguyen/).
+- ⚡ Fun fact: Honor Roll student since my freshman year!
+ 
 <!--
 **Uyenng/Uyenng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
