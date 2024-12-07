@@ -7,6 +7,8 @@
 - 👯 I like dancing and listening to music (feel free to recommend some songs!). I also love learning new languages whenever I have the time.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ula-nguyen/).
 - ⚡ Fun fact: Honor Roll student since my freshman year!
+
+PREPARED Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for PREPARED for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! [PREPARED Home Safety Advisor](https://github.com/PREPARED-AI-Studio-Project/PREPARED-Project)
  
 <!--
 **Uyenng/Uyenng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
