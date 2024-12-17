@@ -1,4 +1,4 @@
-## My name is Ula Nguyen 👋  
+## My name is Ula 👋  
 
 I'm a junior at Stonehill College, studying Data Science and Criminology. I'm passionate about using data to solve real-world challenges, particularly in non-profit organizations or initiatives that contribute to community betterment and human well-being. Connect with me on [LinkedIn](https://www.linkedin.com/in/ula-nguyen/)! 📫
 
