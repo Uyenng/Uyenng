@@ -3,7 +3,7 @@
 I'm a junior at Stonehill College, studying Data Science and Criminology. I'm passionate about using data to solve real-world challenges, particularly in non-profit organizations or initiatives that contribute to community betterment and human well-being. Connect with me on [LinkedIn](https://www.linkedin.com/in/ula-nguyen/)! 📫
 
 ### Skills  
-- **Languages:** Python, Java, Vietnamese  
+- **Languages:** Python, Java, HTML, CSS, Vietnamese  
 - **Tools:** Jupyter Notebook, JGrasp, Office365, Google Suite  
 
 ### Projects  
