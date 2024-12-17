@@ -35,5 +35,5 @@ I'm a junior at Stonehill College, studying Data Science and Criminology. I'm pa
    - [**Repository**](https://github.com/Uyenng/Cornell-ML-Foundation-AirBnB-NLP-Project)
     
 ### More About Me  
-- 🌟 Honor Roll student since my freshman year.  
-- 🎵 I love dancing, listening to music, and learning new languages. Feel free to recommend some songs or share language tips! 
+🌟 Honor Roll student since my freshman year.  <br>
+🎵 I love dancing, listening to music, and learning new languages. Feel free to recommend some songs or share language tips! 
